@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+<br> 👋 Hi, I'm Lulamela<br><br> **Diploma in Information Technology (DIT) Student**<br> **Aspiring Cybersecurity & Network Security Professional**<br><br>I'm a final-year Diploma in Information Technology student with a strong interest in **Cybersecurity and Network Security**.<br><br>I'm particularly interested in understanding how networks and systems can be secured, how attacks happen, and how security professionals can identify and mitigate vulnerabilities.<br><br> My Interests<br><br>My main areas of interest include:<br><br>*  Cybersecurity<br>*  Network Security<br>*  Ethical Hacking<br>*  Penetration Testing<br>*  Network Reconnaissance<br>*  Vulnerability Assessment<br>*  Governance, Risk & Compliance (GRC)<br>*  Python & Security Automation<br><br> What I'm Working On<br><br>I believe the best way to learn cybersecurity is through **hands-on practice**.<br><br>My GitHub is where I document the projects, labs and experiments I work on as I develop my technical skills.<br><br>Some of the technologies and tools I've worked with include:<br><br>* **Kali Linux**<br>* **Nmap**<br>* **Metasploitable2**<br>* **OWASP ZAP**<br>* **WebGoat**<br>* **VirtualBox**<br>* **Python**<br>* **C#**<br>* **Windows Server**<br>* **Networking technologies**<br><br>My projects include network reconnaissance labs, penetration-testing exercises, security simulations, networking projects and Python programming projects.<br><br> Currently Learning<br><br>I'm continuously developing my skills in:<br><br>* Network Security<br>* Penetration Testing<br>* Ethical Hacking<br>* Python<br>* Cybersecurity fundamentals<br>* GRC and security risk management<br><br> My Goal<br><br>My goal is to build a career in **Cybersecurity**, with a particular focus on **Network Security**.<br><br>I'm currently focused on turning the knowledge I gain through my studies into practical skills by building projects, working in virtual labs and documenting my learning.<br><br>> **Learn. Build. Break. Secure. Repeat.**<br><br> Explore My Projects<br><br> **Ethical Hacking**<br>Hands-on security experiments and ethical hacking projects.<br><br> **Penetration Testing**<br>Reconnaissance, vulnerability assessment and penetration-testing labs.<br><br> **Networking & Network Security**<br>Network design, configuration and security projects.<br><br> **Python**<br>Programming projects, automation and cybersecurity-related scripting.<br><br> **GRC**<br>Risk assessment, security controls and governance-focused projects.<br><br>---<br><br> 🤝 Let's Connect<br><br>I'm always interested in learning from other people in the technology and cybersecurity community, collaborating on projects and growing my technical skills.<br><br>**Thanks for visiting my profile! **<br>
 
-<!--
-**lulamelamaxakatho-sudo/lulamelamaxakatho-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lulamela-maxakatho-886175331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lulamela.maxakatho@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LulamelaMaxakatho-SUDO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=LulamelaMaxakatho-SUDO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LulamelaMaxakatho-SUDO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=LulamelaMaxakatho-SUDO&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
